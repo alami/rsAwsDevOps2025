@@ -1,4 +1,5 @@
 .idea/
+.ln
 # Local .terraform directories
 .terraform/
 
