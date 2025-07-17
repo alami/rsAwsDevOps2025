@@ -1,3 +1,3 @@
 # rsAwsDevOps2025
 
-## Task 5. Simple Application Deployment with Helm
+## Task 6. Application Deployment via Jenkins Pipeline
