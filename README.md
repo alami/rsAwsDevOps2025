@@ -1,3 +1,3 @@
 # rsAwsDevOps2025
 
-## Task 6. Application Deployment via Jenkins Pipeline
+## Task 7. Monitoring Deployment on K8s
